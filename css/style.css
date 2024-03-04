@@ -1,0 +1,141 @@
+/**
+*
+* style.css
+* @author - Ibrahim
+* @date - 17/02/2024
+**/
+
+.navbar {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    display: inline-block;
+}
+
+.text-list {
+    display: inline-block;
+    vertical-align: super;
+}
+
+.gap {
+    width: 420px;
+}
+
+.slider-img {
+    background-image: url(/image/main-movie/movie-1.jpg);
+    height: 700px;
+    background-position: contain;
+    background-size: 100% 100%;
+    background-repeat: no-repeat; 
+}
+
+.slider-field {
+    display: flex;
+    justify-content: space-between;
+}
+
+.slider-function {
+    display: flex;
+    align-items: center;
+}
+
+.text-play {
+    font-size: 28px;
+}
+
+.text-info {
+    color: #ffffff;
+    font-size: 28px;
+}
+
+.age {
+   font-size: 20px;
+   color: #ffffff;
+}
+
+.gap-height {
+    height: 530px;
+}
+
+.text-top {
+    font-size: 27px;
+}
+
+.top-movie {
+    display: flex;
+}
+
+.slider-footer {
+    display: flex;
+    justify-content: center;
+}
+
+.text-since {
+    color: #808080;
+    font-size: 18px;
+}
+
+.text-service {
+    color: #808080;
+    font-size: 20px;
+    border: 1px solid #808080;
+    width: 130px;
+}
+
+.list-gap {
+    width: 300px;
+}
+
+.img-box:hover {
+    scale: 1.3;
+    cursor: pointer;
+    border: 1px solid #0c0c0c;
+    height: 320px;
+    background-color: #141414;
+    overflow: visible;
+}
+
+.box-details {
+    display: none;
+}
+
+.img-box:hover .box-details {
+    display: block;
+}
+
+.text-match {
+    font-weight: 600;
+    color: #59c476;
+    font-size: 14px;
+}
+
+.text-age {
+    border: 1px solid #ffffff;
+    font-size: 14px;
+    color: #b8b8b8;
+}
+
+.text-hd {
+    border: 1px solid #ffffff;
+    font-weight: 600;
+    border-radius: 4px;
+    font-size: 13px;
+    color: #b8b8b8;
+}
+
+.text-time {
+    font-size: 14px;
+    color: #b8b8b8;
+}
+
+.text-about {
+    font-size: 15px;
+    font-weight: 500;
+    color: #b8b8b8;
+}
+
+.acclaimed-movie {
+    display: flex;
+}

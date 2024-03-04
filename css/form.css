@@ -1,0 +1,30 @@
+/**
+*
+* form.css
+* @author - Ibrahim
+* @date - 17/02/2024
+**/
+
+.btn-group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.primary-btn {
+    background-color: #ffffff;
+    border-radius: 6px;
+    border: none;
+}
+
+.secondary-btn {
+   background-color:  #8686869e;
+   border-radius: 6px;
+   border: none;
+}
+
+.form-text {
+    background-color:  #dcdcdc22;
+    border: none;
+    border-left: 3px solid #ffffff;
+}

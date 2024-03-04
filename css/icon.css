@@ -1,0 +1,47 @@
+/**
+*
+* icon.css
+* @author - Ibrahim
+* @date - 20/02/2024
+**/
+
+.volume-icon {
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ .pause-icon {
+    color: #141414;
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+.icons {
+    display: flex;
+    align-items: center;
+} 
+
+.plus-like-option-icon {
+    border: 2px solid #ffffff;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+.gap-icon {
+    width: 140px;
+} 

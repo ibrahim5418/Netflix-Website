@@ -1,0 +1,49 @@
+/**
+*
+* list.css
+* @author - Ibrahim
+* @date - 17/02/2024
+**/
+
+.header-left-list {
+    list-style-type: none;
+    font-size: 20px;
+    color: #FAFAFA;
+}
+
+.header-left-list li {
+    display: inline-block;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.header-right-list {
+    height: 50px;
+    list-style-type: none;
+    font-size: 20px;
+    color: #FAFAFA;
+}
+
+.header-right-list li {
+    display: inline-block;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.header-right-list li i {
+    display: inline-block;
+    vertical-align:super;
+}
+
+.header-right-list li img {
+    display: inline-block;
+    vertical-align: text-bottom;
+}
+
+.footer-list {
+    list-style-type: none;
+    font-size: 20px;
+    color: #808080;
+    line-height: 2.6;
+}

@@ -1,0 +1,20 @@
+/**
+*
+* align.css
+* @author - Ibrahim
+* @date - 17/02/2024
+**/
+
+.wrapper {
+    width: 1780px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.t-center {
+    text-align: center;
+}
+
+.t-right {
+    text-align: right;
+}
